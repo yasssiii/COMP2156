@@ -15,6 +15,14 @@
     "type": "git",
     "url": "git+https://github.com/yasssiii/COMP2156.git"
   },
+
+ "dependencies": {
+    "gh-pages": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "travis": "^0.1.1"
+  },
   "keywords": [],
   "author": "Yasaman",
   "license": "ISC",
@@ -22,6 +30,20 @@
     "url": "https://github.com/yasssiii/COMP2156/issues"
   },
   "homepage": "https://github.com/yasssiii/COMP2156#readme",
+<<<<<<< HEAD
+
+"eslintConfig": {
+  "extends": "react-app"
+},
+"browserslist": [
+  ">0.2%",
+  "not dead",
+  "not ie <= 11",
+  "not op_mini all"
+] 
+}
+
+=======
   "dependencies": {
   "gh-pages": "^2.0.1",
   "react": "^16.8.3",
@@ -42,4 +64,5 @@
   
 }
   
+>>>>>>> master
 
