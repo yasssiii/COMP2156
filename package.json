@@ -30,6 +30,7 @@
     "url": "https://github.com/yasssiii/COMP2156/issues"
   },
   "homepage": "https://github.com/yasssiii/COMP2156#readme",
+<<<<<<< HEAD
 
 "eslintConfig": {
   "extends": "react-app"
@@ -42,4 +43,26 @@
 ] 
 }
 
+=======
+  "dependencies": {
+  "gh-pages": "^2.0.1",
+  "react": "^16.8.3",
+  "react-dom": "^16.8.3",
+  "react-scripts": "2.1.5",
+  "travis": "^0.1.1",
+  "yarn": "^1.13.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+     ">0.2%",
+     "not dead",
+     "not ie <= 11",
+     "not op_mini all"
+  ]
+  
+}
+  
+>>>>>>> master
 
