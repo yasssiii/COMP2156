@@ -15,21 +15,22 @@
     "type": "git",
     "url": "git+https://github.com/yasssiii/COMP2156.git"
   },
+
+ "dependencies": {
+    "gh-pages": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "travis": "^0.1.1"
+  },
   "keywords": [],
   "author": "Yasaman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yasssiii/COMP2156/issues"
   },
-  "homepage": "https://github.com/yasssiii/COMP2156#readme"
-  "dependencies": {
-    "gh-pages": "^2.0.1",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
-    "travis": "^0.1.1",
-    "yarn": "^1.13.0"
-},
+  "homepage": "https://github.com/yasssiii/COMP2156#readme",
+
 "eslintConfig": {
   "extends": "react-app"
 },
